@@ -4,7 +4,7 @@
     "id": 1,
     "nombre_ciudad": "París",
     "pais": "Francia",
-    "visitantes_anuales": 30000000,
+    "valoracion": 5,
     "ano_registro": "2022",
     "atracciones_principales": [
       "Torre Eiffel",
@@ -16,7 +16,7 @@
     "id": 2,
     "nombre_ciudad": "Tokio",
     "pais": "Japón",
-    "visitantes_anuales": 28000000,
+    "valoracion": 4,
     "ano_registro": "2023",
     "atracciones_principales": [
       "Torre de Tokio",
@@ -28,7 +28,7 @@
     "id": 3,
     "nombre_ciudad": "Nueva York",
     "pais": "Estados Unidos",
-    "visitantes_anuales": 12000000,
+    "valoracion": 5,
     "ano_registro": "2022",
     "atracciones_principales": [
       "Times Square",
@@ -40,7 +40,7 @@
     "id": 4,
     "nombre_ciudad": "Londres",
     "pais": "Reino Unido",
-    "visitantes_anuales": 20000000,
+    "valoracion": 4,
     "ano_registro": "2022",
     "atracciones_principales": [
       "Palacio de Buckingham",
@@ -52,7 +52,7 @@
     "id": 5,
     "nombre_ciudad": "Roma",
     "pais": "Italia",
-    "visitantes_anuales": 18000000,
+    "valoracion": 5,
     "ano_registro": "2023",
     "atracciones_principales": [
       "Coliseo",
@@ -64,7 +64,7 @@
     "id": 6,
     "nombre_ciudad": "Dubrovnik",
     "pais": "Croacia",
-    "visitantes_anuales": 2500,
+    "valoracion": 2,
     "ano_registro": "2022",
     "atracciones_principales": [
       "Murallas de Dubrovnik",
@@ -76,7 +76,7 @@
     "id": 7,
     "nombre_ciudad": "Estambul",
     "pais": "Turquía",
-    "visitantes_anuales": 15000000,
+    "valoracion": 3,
     "ano_registro": "2023",
     "atracciones_principales": [
       "Mezquita Azul",
@@ -88,7 +88,7 @@
     "id": 8,
     "nombre_ciudad": "Shanghái",
     "pais": "China",
-    "visitantes_anuales": 14000000,
+    "valoracion": 2,
     "ano_registro": "2022",
     "atracciones_principales": [
       "Torre de Shanghái",
@@ -100,7 +100,7 @@
     "id": 9,
     "nombre_ciudad": "Venecia",
     "pais": "Italia",
-    "visitantes_anuales": 13000000,
+    "valoracion": 3,
     "ano_registro": "2023",
     "atracciones_principales": [
       "Gran Canal",
@@ -112,7 +112,7 @@
     "id": 10,
     "nombre_ciudad": "Las Vegas",
     "pais": "Estados Unidos",
-    "visitantes_anuales": 13000000,
+    "valoracion": 1,
     "ano_registro": "2022",
     "atracciones_principales": [
       "The Strip",
