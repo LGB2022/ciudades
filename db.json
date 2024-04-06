@@ -6,11 +6,7 @@
     "pais": "Francia",
     "valoracion": 5,
     "ano_registro": "2022",
-    "atracciones_principales": [
-      "Torre Eiffel",
-      "Museo del Louvre",
-      "Catedral de Notre Dame"
-    ]
+    "atraccion_principal": "Torre Eiffel"
   },
   {
     "id": 2,
@@ -18,11 +14,7 @@
     "pais": "Japón",
     "valoracion": 4,
     "ano_registro": "2023",
-    "atracciones_principales": [
-      "Torre de Tokio",
-      "Templo Sensoji",
-      "Barrio de Akihabara"
-    ]
+    "atraccion_principal": "Torre de Tokio"
   },
   {
     "id": 3,
@@ -30,11 +22,7 @@
     "pais": "Estados Unidos",
     "valoracion": 5,
     "ano_registro": "2022",
-    "atracciones_principales": [
-      "Times Square",
-      "Estátua de la Libertad",
-      "Central Park"
-    ]
+    "atraccion_principal": "Estátua de la Libertad"
   },
   {
     "id": 4,
@@ -42,11 +30,7 @@
     "pais": "Reino Unido",
     "valoracion": 4,
     "ano_registro": "2022",
-    "atracciones_principales": [
-      "Palacio de Buckingham",
-      "Torre de Londres",
-      "Abadía de Westminster"
-    ]
+    "atraccion_principal": "Palacio de Buckingham",
   },
   {
     "id": 5,
@@ -54,47 +38,31 @@
     "pais": "Italia",
     "valoracion": 5,
     "ano_registro": "2023",
-    "atracciones_principales": [
-      "Coliseo",
-      "Vaticano",
-      "Fontana di Trevi"
-    ]
-  },
+    "atraccion_principal": "Fontana di Trevi"
+   },
   {
     "id": 6,
     "nombre_ciudad": "Dubrovnik",
     "pais": "Croacia",
     "valoracion": 2,
     "ano_registro": "2022",
-    "atracciones_principales": [
-      "Murallas de Dubrovnik",
-      "Casco antiguo de Dubrovnik",
-      "Fortaleza Lovrijenac"
-    ]
-  },
+    "atraccion_principal":"Murallas de Dubrovnik"
+ },
    {
     "id": 7,
     "nombre_ciudad": "Estambul",
     "pais": "Turquía",
     "valoracion": 3,
     "ano_registro": "2023",
-    "atracciones_principales": [
-      "Mezquita Azul",
-      "Santa Sofía",
-      "Gran Bazar"
-    ]
-  },
+    "atraccion_principal": "Mezquita Azul"
+ },
   {
     "id": 8,
     "nombre_ciudad": "Shanghái",
     "pais": "China",
     "valoracion": 2,
     "ano_registro": "2022",
-    "atracciones_principales": [
-      "Torre de Shanghái",
-      "El Bund",
-      "Jardín Yuyuan"
-    ]
+    "atraccion_principal": "Torre de Shanghái"
   },
   {
     "id": 9,
@@ -102,23 +70,15 @@
     "pais": "Italia",
     "valoracion": 3,
     "ano_registro": "2023",
-    "atracciones_principales": [
-      "Gran Canal",
-      "Plaza de San Marcos",
-      "Puente de Rialto"
-    ]
-  },
+    "atraccion_principal": "Plaza de San Marcos",
+ },
    {
     "id": 10,
     "nombre_ciudad": "Las Vegas",
     "pais": "Estados Unidos",
     "valoracion": 1,
     "ano_registro": "2022",
-    "atracciones_principales": [
-      "The Strip",
-      "Fremont Street Experience",
-      "Bellagio Fountains"
-    ]
+    "atraccion_principal": "Bellagio Fountains"
 }
 ]
 }
